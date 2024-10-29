@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Priya Trivedi</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
-
+<p1 align="right"> I'm a AWS Cloud & DevOps Engineer passionate about building scalable, secure, and efficient cloud infrastructures & ci cd pipelines. With expertise in AWS, CI/CD pipelines, infrastructure as code (IaC), and automation, I enjoy creating infrastructure that improves applications' speed, reliability, and scalability.</p1>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priya100trivedigmailcom&label=Profile%20views&color=0e75b6&style=flat" alt="priya100trivedigmailcom" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priya100trivedigmailcom" alt="priya100trivedigmailcom" /></a> </p>
 
+- 👩‍💻 Technologies & Tools Expertise **Cloud Providers: AWS CI/CD: Jenkins Containers & Orchestration: Docker, Kubernetes Infrastructure as Code (IaC): Terraform Monitoring & Visualization: Prometheus, Grafana Version Control: Git, GitHub Scripting & Automation: Bash Operating Systems: Linux Configuration Management: Ansible Static Code Analysis: SonarQube Code Build and Artifact Generation: Maven Artifact Upload and Backup: Nexus Deployment Server: Nginx, Tomacat, Apache httpd**
+
+- 🌱 I’m currently learning **Kubernetes Docker Micro-service application deployment through CI/CD**
 - 📫 How to reach me **priya100trivedi@gmail.com**
 
 - 📄 Know about my experiences [will share](will share)
