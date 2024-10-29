@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priya100trivedigmailcom&label=Profile%20views&color=0e75b6&style=flat" alt="priya100trivedigmailcom" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priya100trivedigmailcom" alt="priya100trivedigmailcom" /></a> </p>
 
 - 👩‍💻 Technologies & Tools Expertise **Cloud Providers: AWS CI/CD: Jenkins Containers & Orchestration: Docker, Kubernetes Infrastructure as Code (IaC): Terraform Monitoring & Visualization: Prometheus, Grafana Version Control: Git, GitHub Scripting & Automation: Bash Operating Systems: Linux Configuration Management: Ansible Static Code Analysis: SonarQube Code Build and Artifact Generation: Maven Artifact Upload and Backup: Nexus Deployment Server: Nginx, Tomacat, Apache httpd**
 
